@@ -41,14 +41,6 @@
     echo "{$example->get_username()}. Posted a status.";
     
 
-    
-
-
-
-        
-
-
-
 ?>
 
 
